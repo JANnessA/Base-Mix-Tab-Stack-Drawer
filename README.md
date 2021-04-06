@@ -1,0 +1,1 @@
+StackApp > Drawer Navigator > Bottom Tab
